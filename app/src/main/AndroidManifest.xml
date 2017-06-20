@@ -16,6 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".HelloActivity">
+
+        </activity>
+        <activity android:name=".RegActivity">
+
+        </activity>
     </application>
 
 </manifest>
